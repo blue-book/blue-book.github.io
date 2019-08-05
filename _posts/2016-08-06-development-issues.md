@@ -1,5 +1,5 @@
 ---
-title: Development Issues
+title: Python Intermediate
 date: 2016-08-06
 description: How do development issues affect friendship?
 categories:
