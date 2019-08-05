@@ -1,10 +1,9 @@
 ---
 title: Python Intermediate
-date: 2016-08-06
-description: How do development issues affect friendship?
+date: 2019-08-05
+description: 
 categories:
-  - friendship
-  - psychology
+  - python
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: james
 ---
