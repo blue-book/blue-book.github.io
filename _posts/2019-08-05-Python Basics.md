@@ -1,14 +1,13 @@
 ---
 title: Python Basics
-date: 2016-08-12
+date: 2019-08-05
 description: Python 基礎クラス
 categories:
-  - friendship
-  - health
+  - python
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: tom
 ---
-What You Will Learn: 
+## What You Will Learn: 
 
 Conventional wisdom suggests that good friendships enhance an individual's sense of happiness and overall well-being. Indeed, a number of studies have found that strong social supports improve a woman's prospects for good health and longevity. Conversely, loneliness and a lack of social supports have been linked to an increased risk of heart disease, viral infections, and cancer, as well as higher mortality rates overall. Two researchers have even termed friendship networks a "behavioral vaccine" that boosts both physical and mental health.
 
