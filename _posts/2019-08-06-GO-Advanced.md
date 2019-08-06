@@ -1,6 +1,6 @@
 ---
-title: Go Intermediate
-date: 2019-08-05
+title: Go Advanced
+date: 2019-08-06
 description: 
 categories:
   - go
