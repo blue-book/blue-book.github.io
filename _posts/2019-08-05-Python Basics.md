@@ -1,10 +1,10 @@
 ---
-title: Python Basics
+title: AI・ロボット
 date: 2019-08-05
-description:
+description: AIの基礎から最新の研究動向まで
 categories:
   - python
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: tom
+  - c++
+image: 
+author_staff_member: 
 ---
-
