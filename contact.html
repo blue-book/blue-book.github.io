@@ -21,12 +21,15 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 <section class="pad">
 	<div class="text-container contact-box">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="support@cloudcannon.com">
+			<input type="hidden" name="_to" value="bluebook@gmail.com">
 			<input type="text" name="_gotcha" style="display: none;">
 
 			<label for="name">お名前</label>
 			<input type="text" name="name" id="name" placeholder="Enter your name...">
-
+			
+			<label for="email">住所</label>
+			<input type="address" name="address" id="address" placeholder="Enter your address..." required>
+			
 			<label for="email">Email アドレス</label>
 			<input type="email" name="email" id="email" placeholder="Enter your email..." required>
 
