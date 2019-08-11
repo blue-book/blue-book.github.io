@@ -18,8 +18,6 @@ author_staff_member:
 |  Linuxコマンド、Githubの使い方、Slackの使い方、GPIOを使った電子部品の制御、Pythonを用いたプログラムの作成、プログラミング言語の基礎 |  
 
 
-
-### Raspberry Pi
 Raspberry Piは、ラズベリーパイ財団が英国で開発した、ARMプロセッサ搭載のシングルボードコンピュータです。 コンピュータとしての一通りのI/Oのほか、CPU直結のGPIOも搭載しているので、パソコン以上にいろいろなことができるなかなかの優れものです。
 
 ![](/images/raspberry-pi-4.png)
