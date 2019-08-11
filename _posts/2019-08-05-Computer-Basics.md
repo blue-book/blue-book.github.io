@@ -1,7 +1,7 @@
 ---
-title:  コンピュータベーシック
+title:  コンピュータ　ベーシックス
 date: 2019-08-05
-description: このコースでは、Rasberry Piを使用し的な実際に電子工作とプログラミングを行いながら、コンピュータの基礎とプログラミングの基礎を学ぶことができます。
+description: プログラミング初心者の方向けの入門コース
 categories:
   - Rasberry Pi
   - python
