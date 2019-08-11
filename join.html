@@ -11,3 +11,39 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 		</div>
 	</div>
 </section>
+
+<section class="pad">
+	<div class="text-container contact-box">
+		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+			<input type="hidden" name="_to" value="bluebook@gmail.com">
+			<input type="text" name="_gotcha" style="display: none;">
+
+			<label for="name">お名前</label>
+			<input type="text" name="name" id="name" placeholder="Enter your name...">
+			
+			<label for="email">住所</label>
+			<input type="address" name="address" id="address" placeholder="Enter your address..." required>
+			
+			<label for="email">Email アドレス</label>
+			<input type="email" name="email" id="email" placeholder="Enter your email..." required>
+			
+			<label for="email">生徒様の学年</label>
+			<input type="year" name="year" id="year" placeholder="Enter your year..." required>
+
+			<label for="class">体験したいクラス</label>
+			<textarea name="message" id="message" placeholder="Enter your class..."></textarea>
+
+			<input type="submit" value="Send Message">
+		</form>
+
+		<div class="contact-details">
+			<h3></h3>
+			<address><a></a></address>
+
+			<h3></h3>
+			<p class="editable"><a href="mailto:bluebook@gmail.com"></a></p>
+		</div>
+	</div>
+</section>
+
+
