@@ -1,9 +1,9 @@
 ---
-title: Python Advanced
+title: ブロックチェーン
 date: 2019-08-05
-description: 
+description: 基礎技術から活用まで
 categories:
-  - python
+  - 
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: anna
+author_staff_member:
 ---
