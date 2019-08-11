@@ -20,5 +20,5 @@ author_staff_member:
 ### Raspberry Pi
 Raspberry Piは、ラズベリーパイ財団が英国で開発した、ARMプロセッサ搭載のシングルボードコンピュータです。 コンピュータとしての一通りのI/Oのほか、CPU直結のGPIOも搭載しているので、パソコン以上にいろいろなことができるなかなかの優れものです。
 
-![](/images/pi4.jpg)
+![](/images/raspberry-pi-4.png)
 
