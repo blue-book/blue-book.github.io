@@ -1,5 +1,7 @@
 - name: Topics
   link: /blog/
+- name: Price
+  link: /price/
 - name: About
   link: /about/
 - name: Contact
