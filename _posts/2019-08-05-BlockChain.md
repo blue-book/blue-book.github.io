@@ -7,3 +7,5 @@ categories:
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member:
 ---
+
+このコースでは、ブロックチェーンの基本的な概念から、ブロックチェーンを用いたアプリの開発まで行います。
